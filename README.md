@@ -3,6 +3,6 @@ J2ME Gaming Book placed in GitHub for archive purposes originally hosted at Sour
 
 https://sourceforge.net/projects/j2megamingbook/
 
-According to Sourceforge download over 200K.
+According to Sourceforge downloaded over 200K.
 
 
