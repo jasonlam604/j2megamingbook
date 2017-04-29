@@ -1,0 +1,4 @@
+-libraryjars m:\WTK20\lib\mmapi.zip;m:\WTK20\lib\wma.zip;m:\WTK20\lib\midpapi.zip
+-injars m:\WTK20\apps\Eliminator\bin\Eliminator.jar
+-outjar M:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\Eliminator.jar
+-keep public class * extends javax.microedition.midlet.MIDlet 

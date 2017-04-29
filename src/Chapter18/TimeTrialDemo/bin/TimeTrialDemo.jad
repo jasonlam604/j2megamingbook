@@ -1,0 +1,11 @@
+Expire-Date: MjAwMzEwMTU=
+Expire-Days: MzA=
+Expire-Plays: MTA=
+MIDlet-1: TimeTrialDemo, , TimeTrialDemo
+MIDlet-Jar-Size: 100
+MIDlet-Jar-URL: TimeTrialDemo.jar
+MIDlet-Name: TimeTrialDemo
+MIDlet-Vendor: Sun Microsystems
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0

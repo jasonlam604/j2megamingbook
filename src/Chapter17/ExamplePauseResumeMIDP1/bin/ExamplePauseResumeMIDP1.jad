@@ -1,0 +1,8 @@
+MIDlet-1: ExamplePauseResumeMIDP1, ExamplePauseResumeMIDP1.png, ExamplePauseResumeMIDP1
+MIDlet-Jar-Size: 100
+MIDlet-Jar-URL: ExamplePauseResumeMIDP1.jar
+MIDlet-Name: ExamplePauseResumeMIDP1
+MIDlet-Vendor: Sun Microsystems
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0
